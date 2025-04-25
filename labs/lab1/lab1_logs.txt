@@ -1,0 +1,47 @@
+[22-02-2024 21-59-06] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 21-59-10] USER: 1
+[22-02-2024 21-59-10] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 21-59-13] USER: 2
+[22-02-2024 21-59-13] Bread Bot: Pong! We're on local, so your ping is 0ms.
+[22-02-2024 21-59-14] USER: 3
+[22-02-2024 21-59-14] Bread Bot: Enter your message: 
+[22-02-2024 21-59-16] USER: ggg
+[22-02-2024 21-59-16] Bread Bot: ggg
+[22-02-2024 21-59-19] USER: 0
+[22-02-2024 21-59-19] Bread Bot: Goodbye, see you soon!
+[22-02-2024 21-59-47] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.
+[22-02-2024 21-59-48] USER: 1
+[22-02-2024 21-59-48] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.
+[22-02-2024 21-59-50] USER: 0
+[22-02-2024 21-59-50] NoName Bot: Goodbye, see you soon!
+[22-02-2024 22-00-12] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 22-00-13] USER: 0
+[22-02-2024 22-00-13] Bread Bot: Goodbye, see you soon!
+[22-02-2024 22-24-22] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 22-24-24] USER: 0
+[22-02-2024 22-24-24] Bread Bot: Goodbye, see you soon!
+[22-02-2024 22-24-25] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 22-24-28] USER: 0
+[22-02-2024 22-24-28] Bread Bot: Goodbye, see you soon!
+[22-02-2024 22-24-41] Skuf Bot: Hello! My name is Skuf Bot, version 0.5a. My author is Aliaksiei. My sphere is answer bot. My logging parametr is true.
+[22-02-2024 22-24-43] USER: 0
+[22-02-2024 22-24-43] Skuf Bot: Goodbye, see you soon!
+[22-02-2024 22-24-46] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.
+[22-02-2024 22-24-47] USER: 0
+[22-02-2024 22-24-47] NoName Bot: Goodbye, see you soon!
+[22-02-2024 22-25-23] Bread Bot: Hello! My name is Bread Bot, version 0.1. My author is Aliaksiei Tsevialiuk. My sphere is simple answer bot. My logging parametr is true.
+[22-02-2024 22-25-24] USER: 0
+[22-02-2024 22-25-24] Bread Bot: Goodbye, see you soon!
+[22-02-2024 22-25-52] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.
+[22-02-2024 22-25-53] USER: 0
+[22-02-2024 22-25-53] NoName Bot: Goodbye, see you soon!
+[22-02-2024 22-26-54] Skuf Bot: Hello! My name is Skuf Bot, version 0.5a. My author is Aliaksiei. My sphere is answer bot. My logging parametr is true.
+[22-02-2024 22-26-54] USER: 0
+[22-02-2024 22-26-54] Skuf Bot: Goodbye, see you soon!
+[22-02-2024 22-29-08] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.
+[22-02-2024 22-29-10] USER: -1
+[22-02-2024 22-29-10] NoName Bot: Goodbye, see you soon!
+[22-02-2024 22-29-38] Skuf Bot: Hello! My name is Skuf Bot, version 0.5a. My author is Aliaksiei. My sphere is answer bot. My logging parametr is true.
+[22-02-2024 22-29-41] USER: 5
+[22-02-2024 22-29-41] Skuf Bot: Goodbye, see you soon!
+[03-03-2024 01-15-53] NoName Bot: Hello! My name is NoName Bot, version 0.0. My author is NoName author. My sphere is simple bot. My logging parametr is true.

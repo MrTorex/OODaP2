@@ -1,0 +1,4 @@
+Full name: Kolbas, experience: 0, number of hours: 56, hourly wage: 5, salary: 280, bonus: 2.8
+Full name: KOLBAS PIDARAS, experience: 2, number of hours: 155, hourly wage: 1, salary: 155, bonus: 7.75
+Full name: KAUBASIK, experience: 4, number of hours: 700, hourly wage: 6, salary: 4200, bonus: 336
+Full name: KAUBAS, experience: 6, number of hours: 1488, hourly wage: 70, salary: 104160, bonus: 15624
